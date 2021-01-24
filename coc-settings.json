@@ -1,0 +1,48 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "ex",
+        "exs",
+        "css",
+        "markdown",
+        "javascript",
+        "graphql",
+        "html",
+        "yaml",
+        "json",
+        "python",
+        "xml"
+    ],
+    "elixirLS.mixEnv": "dev",
+    "elixirLS.mixTarget": "test",
+    "explorer.icon.enableNerdfont": true,
+    "explorer.keyMappings.global": {
+        "<cr>": [
+            "expandable?",
+            "expand",
+            "open"
+        ],
+        "v": "open:vsplit"
+    },
+    "explorer.previewAction.onHover": false,
+    "explorer.width": 50,
+    "git.autofetch": true,
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+    "intelephense.licenceKey": "004EWZ4GBM0TLWL",
+    "intelephense.phpdoc.functionTemplate": {
+        "summary": "$1",
+        "tags": [
+            "@throws ${1:$SYMBOL_TYPE} $2"
+        ]
+    },
+    "intelephense.phpdoc.propertyTemplate": {
+        "summary": "$1",
+        "tags": [
+            "@var ${1:$SYMBOL_TYPE}"
+        ]
+    },
+    "intelephense.phpdoc.useFullyQualifiedNames": true,
+    "snippets.ultisnips.directories": [
+        "UltiSnips",
+        "~/.config/nvim/utils/snips"
+    ]
+}
