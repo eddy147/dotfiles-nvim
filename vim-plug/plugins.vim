@@ -44,14 +44,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'ranger/ranger'
 
     " Themes
-    Plug 'sickill/vim-monokai'
-    Plug 'jacoborus/tender.vim'
-    Plug 'challenger-deep-theme/vim', { 'as': 'challenger-deep' }
-    Plug 'joshdick/onedark.vim'
-    Plug 'marciomazza/vim-brogrammer-theme'
-    Plug 'LouHolsten/onedark.vim'
-    Plug 'jdsimcoe/abstract.vim'
-    "Plug 'RobertYim/monokai-soda'
-    Plug 'jzelinskie/monokai-soda.vim'
+    Plug 'tomasiser/vim-code-dark'
 
     call plug#end()

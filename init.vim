@@ -10,10 +10,4 @@ source $HOME/.config/nvim/plug-config/coc.vim
 source $HOME/.config/nvim/plug-config/ultisnips.vim
 
 " Themes
-source $HOME/.config/nvim/themes/monokai.vim
-source $HOME/.config/nvim/themes/onedark.vim
-source $HOME/.config/nvim/themes/abstract.vim
-source $HOME/.config/nvim/themes/challenger-deep.vim
-source $HOME/.config/nvim/themes/brogrammer.vim
-source $HOME/.config/nvim/themes/tender.vim
-source $HOME/.config/nvim/themes/monokai-soda.vim
+source $HOME/.config/nvim/themes/darkplus.vim
